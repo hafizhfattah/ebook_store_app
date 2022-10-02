@@ -35,7 +35,7 @@ dev_dependencies:
 2. Run `flutter pub get` In Terminal
 3. Run the project In Web or Emulator
 
-### 📷 **Screenshots**
+### 📷 **Demo**
 
 
 

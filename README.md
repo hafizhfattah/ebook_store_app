@@ -1,6 +1,6 @@
 ### 📦 **Ebook Store App**
 
-E-Book Online Shop With Some Fitures
+E-Book Online Shop With Some Fitures.
 
 ### 🎁 **Fiture**
 - App Name

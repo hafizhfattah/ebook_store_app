@@ -1,7 +1,6 @@
 ### 📦 **Ebook Store App**
 
 E-Book Online Shop With Some Fitures
-Made With Flutter
 
 ### 🎁 **Fiture**
 - App Name
